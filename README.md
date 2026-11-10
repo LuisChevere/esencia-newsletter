@@ -1,5 +1,5 @@
 # Esencia — Email Newsletter
-## Still a work in progress.
+### Still a work in progress.
 
 **Restaurant Website:** [https://dineesencia.com](https://dineesencia.com)
 
